@@ -13,7 +13,7 @@ finance tools in Python and Excel to develop and demonstrate the technical
 skills required for ALM and Treasury roles at European banks.
 
 **Target roles:** Treasury Analyst · ALM Analyst  
-**Target institutions:** UniCredit · BNP Paribas Italy · Mediobanca  
+**Target institutions:** UniCredit · BNP Paribas Italy · Mediobanca · MPS
 **MSc target:** Cattolica Milano — Banking & Finance (2027 intake)
 
 ---
@@ -36,7 +36,7 @@ skills required for ALM and Treasury roles at European banks.
 
 ## Projects
 
-*Projects are being built and will be added here as completed.*
+1-European Commercial Bank ALM Model 
 
 ---
 
