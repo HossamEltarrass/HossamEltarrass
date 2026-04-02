@@ -20,7 +20,7 @@ skills required for ALM and Treasury roles at European banks.
 
 ## Internship Experience
 
-- **FAB Misr — Treasury & ALM** | 2 rotations | Cairo, Egypt
+- **FAB Misr — Treasury & ALM** | Cairo, Egypt
 - **IdealRatings — Equity Research** | Cairo, Egypt
 
 ---
@@ -30,7 +30,7 @@ skills required for ALM and Treasury roles at European banks.
 - Financial Modelling & Valuation Analyst (FMVA) — CFI
 - Commercial Banking & Credit Analyst (CBCA) — CFI
 - Capital Markets & Securities Analyst (CMSA) — CFI
-- Basel III & Financial Regulation
+- Basel & Financial Regulation
 
 ---
 
