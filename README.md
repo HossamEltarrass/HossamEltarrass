@@ -3,6 +3,7 @@
 **BSc Banking & Finance** — Università di Siena  
 **Target:** MSc Economics & Finance — Cattolica Milano (2027)  
 **Focus:** ALM · IRRBB · Liquidity Risk
+**Open to:** ALM · IRRBB · Liquidity Risk internships in Italy — 2027
 
 ---
 
