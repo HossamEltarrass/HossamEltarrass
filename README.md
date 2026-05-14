@@ -1,75 +1,69 @@
 # Hossam Eltarrass
 
-BSc Banking & Finance — Università di Siena, Italy  
-Targeting Treasury & Asset-Liability Management (ALM) at a top European bank
-
----
-
-## About Me
-
-I am a finance student specialising in Treasury and ALM, with hands-on 
-internship experience in banking and equity research. I build quantitative 
-finance tools in Python and Excel to develop and demonstrate the technical 
-skills required for ALM and Treasury roles at European banks.
-
-**Target roles:** Treasury Analyst · ALM Analyst  
-**Target institutions:** UniCredit · BNP Paribas Italy · Mediobanca · MPS
-**MSc target:** Cattolica Milano — Banking & Finance (2027 intake)
+**BSc Banking & Finance** — Università di Siena  
+**Target:** MSc Economics & Finance — Cattolica Milano (2027)  
+**Focus:** ALM · IRRBB · Liquidity Risk
 
 ---
 
 ## Internship Experience
 
-- **FAB Misr — Treasury & ALM** | Cairo, Egypt
-- **IdealRatings — Equity Research** | Cairo, Egypt
+- **Kuwait Finance House Egypt** — ALM Desk | Cairo *(Aug–Oct 2026)*
+- **Giorgio Armani** — EMEA Finance | Dubai *(Jun–Aug 2026)*
+- **First Abu Dhabi Bank Misr** — Treasury & ALM | Cairo *(Jul–Sep 2025)*
+- **IdealRatings** — Equity Research | Cairo *(Sep–Nov 2025)*
+
+---
+
+## ALM Project Portfolio
+
+12-module Python toolkit and 18-section Excel model replicating
+the core outputs of a G-SIB ALM desk.
+
+Covering: NII · IRRBB · LCR/NSFR · FTP · Yield Curve ·
+NMD Behavioural Assumptions · Capital Forecasting
+
+Calibrated to: Basel III · CRR2 · EBA/GL/2022/14 · BCBS 368
+
+→ [ALM Python Portfolio](https://github.com/HossamEltarrass/ALM-Python-Portfolio)
+
+---
+
+## Research & Writing
+
+10-article ALM series published via Siena QIB Finance Society.
+Topics span the full ALM framework — balance sheet structure,
+funding mechanics, IRRBB stress testing, NII/EVE measurement,
+NMD behavioural assumptions, FTP, wholesale funding, derivatives,
+Italian sovereign exposure, and four decades of ALM crises.
+2 articles published · 8 in progress.
+
+→ [Siena QIB Finance Society](https://associazionesienaq.wixsite.com/sienaqib)  
+→ [LinkedIn Articles](https://www.linkedin.com/in/hossametarrass)
 
 ---
 
 ## Certifications
 
 - Financial Modelling & Valuation Analyst (FMVA) — CFI
-- Commercial Banking & Credit Analyst (CBCA) — CFI
 - Capital Markets & Securities Analyst (CMSA) — CFI
-- Basel & Financial Regulation
-
----
-
-## Projects
-
-1-European Commercial Bank ALM Model 
-
----
-
-## Technical Skills
-
-- **Excel:** Financial modelling, ALM gap analysis, scenario analysis
-- **Python:** pandas, numpy, matplotlib, scipy
-- **SQL:** Financial data queries and sector analysis
-  
+- Commercial Banking & Credit Analyst (CBCA) — CFI
+- Bloomberg & Investment Data Analyst (BIDA) — CFI
+- Market Risk — CFI
+- AI Specialization — CFI
+- Basel III & Financial Regulation — CFI
+- SQL — Coursera
+- Python — Coursera
 
 ---
 
 ## Languages
 
-Arabic (native) · English (fluent) · Italian (fluent)
+English (C1) · Italian (B2) · Arabic (native)
 
 ---
 
 ## Contact
 
-[LinkedIn] www.linkedin.com/in/hossametarrass) · hossameddin.sherief@gmail.com
-
-<!--
-**HossamEltarrass/HossamEltarrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[LinkedIn](https://www.linkedin.com/in/hossametarrass) · hossameddin.sherief@gmail.com
 -->
