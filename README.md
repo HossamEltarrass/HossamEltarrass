@@ -9,9 +9,7 @@
 
 ## Internship Experience
 
-- **Kuwait Finance House Egypt** — ALM Desk | Cairo *(Aug–Oct 2026)*
-- **Giorgio Armani** — EMEA Finance | Dubai *(Jun–Aug 2026)*
-- **First Abu Dhabi Bank Misr** — Treasury & ALM | Cairo *(Jul–Sep 2025)*
+- **First Abu Dhabi Bank Misr** — Treasury & ALM | Cairo *(Jul–Aug 2025)*
 - **IdealRatings** — Equity Research | Cairo *(Sep–Nov 2025)*
 
 ---
