@@ -11,7 +11,8 @@
 
 - **First Abu Dhabi Bank Misr** — Treasury & ALM | Cairo *(Jul–Aug 2025)*
 - **IdealRatings** — Equity Research | Cairo *(Sep–Nov 2025)*
-
+- **Giorgio Armani** — Equity Research | EMEA (Dubai)  *(June–Aug 2026)*
+- **KFH** — ALM | Cairo *(Aug –Oct 2026)*
 ---
 
 ## ALM Project Portfolio
