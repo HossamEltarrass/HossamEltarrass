@@ -39,7 +39,6 @@ Italian sovereign exposure, and four decades of ALM crises.
 2 articles published · 8 in progress.
 
 → [Siena QIB Finance Society](https://associazionesienaq.wixsite.com/sienaqib)  
-→ [LinkedIn Articles](https://www.linkedin.com/in/hossametarrass)
 
 ---
 
